@@ -1,7 +1,9 @@
 ### Hi, I'm Mozammil 👋
 
-Originally from Mauritius, I've been building software in Hamburg, Germany since 2019. I love problem-solving and building products.
+Originally from the island of Mauritius, I moved to Hamburg, Germany in 2019 for work.
 
-I'm a Principal Engineer at Procuros, where we're enabling autonomous B2B operations in the supply chain, from agentic document understanding to fair message queues. Before that, I was Lead Developer at About You.
+I have always enjoyed problem-solving and I am passionate about building products. I am very fortunate that it also earns me a living as a software engineer.
+
+I work as a Principal Engineer at Procuros. Our aim is to enable autonomous B2B operations primarily in the supply chain sector. Previously, I worked as a Lead Developer at About You.
 
 [mozammil.com](https://mozammil.com) · [@mozammil on X](https://x.com/mozammil)
